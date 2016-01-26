@@ -20,13 +20,17 @@ But then we sat down, and we talked and I drew stuff. I could switch into answer
 
 ## Launching GOV.UK
 
-This was pretty special. Still pinching myself over this one, we got it over the line and kept improving it. It saved millions of pounds for the taxpayer. Lots of people said it couldn't be done. Apparently some people didn't want us to do it. We got agile service delivery and service design at the heart in central government. The strategy was delivery.
+This was pretty special. Still pinching myself over this one, we got it over the line and kept improving it. It saved millions of pounds for the taxpayer. Lots of people said it couldn't be done. Apparently some people didn't want us to do it. We got agile service delivery and service design firmly at the heart of central government. The strategy was delivery.
 
 One day someone will write a detailed account about that time, but this isn't that tale.
 
 ## The Government Service Manual
 
-Note the Government Service Manual, not the GDS Service Manual. I think this is one of the things I'm happiest about. Getting a description of how to make good, user-centred services. Showing all the things that go into making that happen. It's also brilliant to see a team iterating on this now, and I know they're going to take this to the next level.
+*NB the Government Service Manual, not the GDS Service Manual*.
+
+I think this is one of the things I'm happiest about. Publishing a description of how to make good, user-centred services on the central government website. Showing all the things that go into making that happen.
+
+It's also brilliant to see [a team iterating on this now](https://gds.blog.gov.uk/2015/12/21/service-manual-preparing-for-beta/), and I know they're going to take this to the next level.
 
 ## Being the much-copied originator
 
@@ -38,7 +42,7 @@ Since we started, we've seen similar initiatives in:
 
 It is fantastic to see others going on that journey. We now have a global community delivering public services, learning together.
 
-## Murray Gell-Mann Amnesia
+## [Murray Gell-Mann Amnesia](http://www.goodreads.com/quotes/65213-briefly-stated-the-gell-mann-amnesia-effect-is-as-follows-you)
 
 I now know a little about more things in the world. My opinion of the media has adjusted accordingly.
 
