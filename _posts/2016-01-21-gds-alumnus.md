@@ -16,17 +16,17 @@ I was pretty much shitting myself, not having had to interview for job for 8 or 
 
 Next [Paul Downey][psd] arrived. I read a lot; I'd read most of his stuff and liked what I'd read. That didn't really help me relax.
 
-But then we sat down, and we talked and I drew stuff. I could just switch into answering the questions and exploring the problems. I must have done something right though. They offered me a job as Technical Architect rather than Developer.
+But then we sat down, and we talked and I drew stuff. I could switch into answering the questions and exploring the problems. I must have done something right though. They offered me a job as Technical Architect rather than Developer.
 
 ## Launching GOV.UK
 
-This was pretty special. Still pinching myself over this one, we got it over the line and kept improving it. It saved millions of pounds for the taxpayer. Lots of people said it couldn't be done. Apparently some people didn't want us to do it. We got agile service delivery and service design embedded in central government. The strategy was delivery.
+This was pretty special. Still pinching myself over this one, we got it over the line and kept improving it. It saved millions of pounds for the taxpayer. Lots of people said it couldn't be done. Apparently some people didn't want us to do it. We got agile service delivery and service design at the heart in central government. The strategy was delivery.
 
 One day someone will write a detailed account about that time, but this isn't that tale.
 
 ## The Government Service Manual
 
-Note the Government Service Manual, not the GDS Service Manual. I think this is one of the things I'm happiest about. Getting a description of how to deliver good, user-centred services. Showing all the things that go into making that happen. It's also brilliant to see a team iterating on this now, and I know they're going to take this to the next level.
+Note the Government Service Manual, not the GDS Service Manual. I think this is one of the things I'm happiest about. Getting a description of how to make good, user-centred services. Showing all the things that go into making that happen. It's also brilliant to see a team iterating on this now, and I know they're going to take this to the next level.
 
 ## Being the much-copied originator
 
@@ -44,7 +44,7 @@ I now know a little about more things in the world. My opinion of the media has 
 
 ## The people
 
-Far too many names to list. I love you all, I learned so much from you and had so much fun doing it. Talented, passionate people working on stuff that matters. People that blew apart my ridiculous preconceptions about the quality of people in the public sector. I have a burning desire to go back at some point and do more things with these people.
+Far too many names to list. I love you all, I learned so much from you, and had so much fun doing it. I've made some great friends. Talented, passionate people working on stuff that matters. People that blew apart my ridiculous preconceptions about the quality of people in the public sector. I have a burning desire to go back at some point and do more things with these people.
 
 Onwards!
 
