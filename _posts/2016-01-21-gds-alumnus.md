@@ -8,6 +8,9 @@ I recently left the UK's Government Digital Service (GDS). I'm really happy with
 
 There are lots of amazing memories, which I'm writing down whilst I can still remember them.
 
+<span><q>Oh you arsehole, you're leaving!</q> -- [Louise Downe][lou]</span>
+{: class="look-at-me"}
+
 ## My interview
 
 I turned up early one morning in February, ready to meet [Mat Wall][matwall]. He was running a bit late, and wanted to have a quick fag. I'd previously met him at a MongoDB Skillsmatter talk he'd done --- we'd had a reasonably sensible conversation. Pretty soon after, he'd left the Guardian to join GDS.
@@ -42,6 +45,9 @@ Since we started, we've seen similar initiatives in:
 
 It is fantastic to see others going on that journey. We now have a global community delivering public services, learning together.
 
+<span><q>Don't talk to him, he's leaving.</q> -- [Martyn Inglis][minglis]</span>
+{: class="look-at-me"}
+
 ## [Murray Gell-Mann Amnesia](http://www.goodreads.com/quotes/65213-briefly-stated-the-gell-mann-amnesia-effect-is-as-follows-you)
 
 I now know a little about more things in the world. My opinion of the media has adjusted accordingly.
@@ -50,10 +56,15 @@ I now know a little about more things in the world. My opinion of the media has 
 
 Far too many names to list. I love you all, I learned so much from you, and had so much fun doing it. I've made some great friends. Talented, passionate people working on stuff that matters. People that blew apart my ridiculous preconceptions about the quality of people in the public sector. I have a burning desire to go back at some point and do more things with these people.
 
+<span><q>Splitter!</q> -- [psd][psd]</span>
+{: class="look-at-me"}
+
 Onwards!
 
-[matwall]:       https://twitter.com/matwall
-[psd]:           https://twitter.com/psd
+[matwall]:     https://twitter.com/matwall
+[minglis]:     https://twitter.com/minglis
+[lou]:         https://twitter.com/LouiseDowne
+[psd]:         https://twitter.com/psd
 [tomski]:      https://twitter.com/tomskitomski
 
 [^1]: Obviously, Tom didn't say this. More like ["We're on a mission from God"](http://www.imdb.com/title/tt0080455/quotes?item=qt0320032)
