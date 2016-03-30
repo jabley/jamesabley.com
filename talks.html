@@ -1,0 +1,29 @@
+---
+layout: page
+title: Talks
+permalink: /talks/
+---
+
+<div class="home">
+
+  <h2 class="page-heading">Conference talks and presentations</h2>
+
+  <p>I've given various talks about agile, technology, data, organisation design, and people.</p>
+
+  <ul class="post-list">
+    {% for talk in site.talks reversed %}
+      <li>
+        <span class="post-meta">{{ talk.date | date: "%b %-d, %Y" }}</span>
+
+        <h3>
+        	<a href="{{ talk.talk_url }}">{{ talk.title }}</a>
+        </h3>
+        {% for d in talk.description %}
+        <p>{{ d }}</p>
+        {% endfor %}
+        <a href="{{ talk.slides_url }}">Slides</a></h3>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

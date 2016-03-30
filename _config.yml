@@ -23,3 +23,7 @@ markdown: kramdown
 
 gems:
   - jekyll-feed
+
+collections:
+  talks:
+    output: true
