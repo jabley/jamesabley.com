@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Types of Enginner"
+title:  "Types of Engineer"
 date:   2016-08-02 07:35:12
 categories: ontology engineer definition
 ---
 
-Software engineering is a broad field, with many different specialisms. I tend to consider 4 distinct roles. None of these roles are more senior than the other. These are explicitly specialisms, not a hierarchy. There is no right way to be an engineer. You can be one or more of these things, with more thrown in.
+Software engineering is a broad field, with many different specialisms. I tend to consider 4 distinct roles. None of these roles are more senior than another. These are explicitly specialisms, not a hierarchy. There is no right way to be an engineer. You can be one or more of these things, with more thrown in.
 
 ## Backend engineer
 
