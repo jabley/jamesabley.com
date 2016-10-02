@@ -1,0 +1,21 @@
+// Generate with command:
+// $ dot -Tpdf -O parallel.dot
+
+digraph serial {
+    rankdir="LR";
+    label="Parallel availability";
+    node [style=filled, fillcolor=lightblue, shape=rect];
+    edge [color=dimgrey];
+
+    client [style=invis];
+    router [label="router (99.99%)"];
+    zoneA [label="zone A (95%)"];
+    zoneB [label="zone B (95%)"];
+    downstream [label="downstream"];
+
+    client -> router;
+    router -> zoneA;
+    router -> zoneB;
+    zoneA -> downstream;
+    zoneB -> downstream;
+}
