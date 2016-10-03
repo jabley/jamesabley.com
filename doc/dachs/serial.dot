@@ -1,0 +1,18 @@
+// Generate with command:
+// $ dot -Tpdf -O serial.dot
+
+digraph serial {
+    rankdir="LR";
+    label="Serial availability";
+    node [style=filled, fillcolor=lightblue, shape=rect];
+    edge [color=dimgrey];
+
+    client [style=invis];
+    router [label="router (99.99%)"];
+    zoneA [label="zone A (95%)"];
+    downstream [style=invis];
+
+    client -> router;
+    router -> zoneA;
+    zoneA -> downstream;
+}

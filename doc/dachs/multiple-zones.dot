@@ -1,0 +1,30 @@
+// Generate with command:
+// $ dot -Tpdf -O multiple-zones.dot
+
+digraph serial {
+    rankdir="LR";
+    label="Multiple parallel availability";
+    node [style=filled, fillcolor=lightblue, shape=rect];
+    edge [color=dimgrey];
+
+    client [style=invis];
+    router [label="router (99.99%)"];
+    zoneA [label="zone A (95%)"];
+    zoneB [label="zone B (95%)"];
+    zoneC [label="zone C (95%)"];
+    zoneD [label="zone D (95%)"];
+    zoneE [label="zone E (95%)"];
+    downstream [label="downstream"];
+
+    client -> router;
+    router -> zoneA;
+    router -> zoneB;
+    router -> zoneC;
+    router -> zoneD;
+    router -> zoneE;
+    zoneA -> downstream;
+    zoneB -> downstream;
+    zoneC -> downstream;
+    zoneD -> downstream;
+    zoneE -> downstream;
+}
