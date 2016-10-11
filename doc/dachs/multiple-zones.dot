@@ -14,7 +14,7 @@ digraph serial {
     zoneC [label="zone C (95%)"];
     zoneD [label="zone D (95%)"];
     zoneE [label="zone E (95%)"];
-    downstream [label="downstream"];
+    upstream [label="upstream"];
 
     client -> router;
     router -> zoneA;
@@ -22,9 +22,9 @@ digraph serial {
     router -> zoneC;
     router -> zoneD;
     router -> zoneE;
-    zoneA -> downstream;
-    zoneB -> downstream;
-    zoneC -> downstream;
-    zoneD -> downstream;
-    zoneE -> downstream;
+    zoneA -> upstream;
+    zoneB -> upstream;
+    zoneC -> upstream;
+    zoneD -> upstream;
+    zoneE -> upstream;
 }

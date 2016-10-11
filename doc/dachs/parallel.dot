@@ -11,11 +11,11 @@ digraph serial {
     router [label="router (99.99%)"];
     zoneA [label="zone A (95%)"];
     zoneB [label="zone B (95%)"];
-    downstream [label="downstream"];
+    upstream [label="upstream"];
 
     client -> router;
     router -> zoneA;
     router -> zoneB;
-    zoneA -> downstream;
-    zoneB -> downstream;
+    zoneA -> upstream;
+    zoneB -> upstream;
 }
