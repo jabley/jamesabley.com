@@ -15,7 +15,7 @@ There are lots of amazing memories, which I'm writing down whilst I can still re
 
 I turned up early one morning in February, ready to meet [Mat Wall][matwall]. He was running a bit late, and wanted to have a quick fag. I'd previously met him at a MongoDB Skillsmatter talk he'd done --- we'd had a reasonably sensible conversation. Pretty soon after, he'd left the Guardian to join GDS.
 
-I was pretty much shitting myself, not having had to interview for job for 8 or 9 years. I'd interviewed for my first 2 jobs in web, and then followed friends via word of mouth for later gigs.
+I was pretty much shitting myself, not having had to interview for a job for 8 or 9 years. I'd interviewed for my first 2 jobs in web, and then followed friends via word of mouth for later gigs.
 
 Next [Paul Downey][psd] arrived. I read a lot; I'd read most of his stuff and liked what I'd read. That didn't really help me relax.
 
