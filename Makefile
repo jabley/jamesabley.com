@@ -1,8 +1,8 @@
 .PHONY: images
 
-images: png
+images: -graphviz
 
-png:
-	dot -Tpng -o images/dachs/serial.png doc/dachs/serial.dot
-	dot -Tpng -o images/dachs/parallel.png doc/dachs/parallel.dot
-	dot -Tpng -o images/dachs/multiple-zones.png doc/dachs/multiple-zones.dot
+-graphviz:
+	dot -Tsvg -o images/dachs/serial.svg doc/dachs/serial.dot
+	dot -Tsvg -o images/dachs/parallel.svg doc/dachs/parallel.dot
+	dot -Tsvg -o images/dachs/multiple-zones.svg doc/dachs/multiple-zones.dot
