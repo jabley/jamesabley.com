@@ -79,7 +79,7 @@ running in the PaaS.
 This has actually made things worse. The [serial availability equation](#fn:1) tells us
 how to calculate availability for this case.
 
-![Availability of Serial Components](/images/dachs/serial.png "Availability of Serial Components")
+![Availability of Serial Components](/images/dachs/serial.svg "Availability of Serial Components")
 
 It's the product of all the component's availability in the network path. So
 that would be `0.9999 * 0.95 = 94.9905%` availability.
@@ -98,7 +98,7 @@ the traffic
 
 We can now use the [parallel availability equation](#fn:1).
 
-![Availability of Parallel Components](/images/dachs/parallel.png "Availability of Parallel Components")
+![Availability of Parallel Components](/images/dachs/parallel.svg "Availability of Parallel Components")
 
 The combined availability of zones A and B is `1 - [(1 - 0.95) * (1 - 0.95)] = 0.9975`.
 
@@ -138,7 +138,7 @@ much they care whether you solve that problem.
 We decide to add some more PaaS providers. We now have zones C, D, and E, and we
 get to make other decisions.
 
-![Availability of multiple parallel components](/images/dachs/multiple-zones.png "Availability of multiple parallel components")
+![Availability of multiple parallel components](/images/dachs/multiple-zones.svg "Availability of multiple parallel components")
 
 How many zone failures do we need to be resilient against? If the answer is just
 1, then we only need to put 25 instances of our application in each zone,
