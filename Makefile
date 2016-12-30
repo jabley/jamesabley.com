@@ -1,11 +1,8 @@
 .PHONY: images
 
-images: png copy-images
+images: png
 
 png:
-	dot -Tpng -o doc/dachs/serial.png doc/dachs/serial.dot
-	dot -Tpng -o doc/dachs/parallel.png doc/dachs/parallel.dot
-	dot -Tpng -o doc/dachs/multiple-zones.png doc/dachs/multiple-zones.dot
-
-copy-images:
-	mv doc/dachs/*.png images/dachs/
+	dot -Tpng -o images/dachs/serial.png doc/dachs/serial.dot
+	dot -Tpng -o images/dachs/parallel.png doc/dachs/parallel.dot
+	dot -Tpng -o images/dachs/multiple-zones.png doc/dachs/multiple-zones.dot
