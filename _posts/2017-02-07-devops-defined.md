@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Devops Defined
+date: 2017-02-07 15:57:00
 categories: technology definition devops
 ---
 It's 2017 and we're still having this discussion? Alright then, here are some
