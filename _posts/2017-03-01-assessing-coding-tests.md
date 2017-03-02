@@ -7,7 +7,7 @@ categories: technology career
 A bit of internet that I can point to when I have a conversation with people
 about coding tests.
 
-*Do not blindly copy this*
+**Do not blindly copy this**
 
 You should adapt it to your context. You should also ensure that the
 instructions to the candidate tell them what's important, and what you'll be
