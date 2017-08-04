@@ -45,7 +45,7 @@ I also like setting up how we change and improve those things. That should
 itself be subject to a continuous improvement process.
 
 That last part can be a bit odd for people to wrap their heads around it when
-they first come across it. Another way of putting it as asking 2 questions:
+they first come across it. Another way of putting it is asking 2 questions:
 
 1. How do we get better?
 1. How do we get better at getting better?
