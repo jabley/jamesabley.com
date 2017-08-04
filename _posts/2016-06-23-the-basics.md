@@ -20,9 +20,9 @@ things like:
 
 This can be closely related to the first thing. I'm choosing to call it out here
 since it increasingly means that a high-performing organisation will have had
-interesting conversations about managing user data, scrubbing personally-
-identifiable information, mocking out 3rd party services like email/payments
-etc.
+interesting conversations about managing user data, scrubbing
+personally-identifiable information, mocking out 3rd party services like
+email/payments etc.
 
 Part of deploying to production can involve deploying to lower environments.
 How are these lower environments managed?
