@@ -50,7 +50,8 @@ they first come across it. Another way of putting it is asking 2 questions:
 1. How do we get better?
 1. How do we get better at getting better?
 
-This is sometimes called [double-loop learning][double-loop] and is a really powerful
-concept.
+This is sometimes called [double-loop learning][double-loop] and is [a really powerful
+concept][double-loop-explained].
 
-[double-loop]: https://en.wikipedia.org/wiki/Double-loop_learning
+[double-loop]:           https://en.wikipedia.org/wiki/Double-loop_learning
+[double-loop-explained]: https://squiretothegiants.wordpress.com/2017/08/03/double-trouble/
