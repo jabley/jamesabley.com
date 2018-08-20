@@ -3,7 +3,7 @@ title: "Hello, is this thing on?"
 email: james.abley@gmail.com
 description: "Intermittent cake-hole flappings of a nerd"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jamesabley.com" # the base hostname & protocol for your site
+url: "https://jamesabley.com" # the base hostname & protocol for your site
 twitter_username: jabley
 github_username:  jabley
 
