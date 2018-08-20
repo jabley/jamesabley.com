@@ -94,6 +94,7 @@ I hope it's useful.
 # The Stories
 
 1. [Difficult conversations](/difficult-conversations/)
+1. [Working where you're not wanted](/working-where-youre-not-wanted/)
 
 [digital-transformation]: https://definitionofdigital.com/
 [dinos-christianpoulos]:  https://medium.com/@ashponders/on-buried-seeds-abd4d3ebba7a
