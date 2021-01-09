@@ -21,7 +21,7 @@ defaults:
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-feed
 
 collections:
