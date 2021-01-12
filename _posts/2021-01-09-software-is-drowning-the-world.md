@@ -215,8 +215,9 @@ transformation, you'd need to query the AST for usages of the old
 API, then try to apply the transformation which maps the old API
 to the new API.
 
-I've found one related paper. Given that it's not gone further, was
-it too hard, or not viable, or the wrong time?
+I've found [one related paper](https://dl.acm.org/doi/10.1145/1103845.1094832).
+Given that it's not gone further, was it too hard, or not viable, or
+the wrong time?
 
 ## Summary
 
@@ -227,3 +228,22 @@ business logic rather than plumbing concerns?
 
 But I didn't take the time off I planned to confirm the potential
 market and see how hard a problem it would be solve :)
+
+## Further Reading
+
+**Update** I originally published this without a list of references.
+I should have done the hard work to include them. Mostly that meant
+mining my browser history and Pinboard from February and March 2019
+when I spent a chunk of time first looking at this
+**for absolutely no reason at all, clients of the time**.
+
+* [Refactoring support for class library migration](https://dl.acm.org/doi/10.1145/1103845.1094832)
+* [Automatic Upgrade of Java Libraries](https://ercim-news.ercim.eu/en88/special/automatic-upgrade-of-java-libraries)
+  which linked to [a defunct Netbeans plugin](http://web.archive.org/web/20170409031849/http://kenai.com/projects/refactoringng)
+* [Autorefactor](http://autorefactor.org/)
+* [Walkmod](http://walkmod.com/)
+* [Rewrite](https://github.com/Netflix-Skunkworks/rewrite)
+    * This has now become [OpenRewrite](https://docs.openrewrite.org/)
+      and might be what I'm after, for Java and YAML at least. There is
+      an example which (when complete) is supposed to migrate from
+      Spring Boot 1.5.x to Spring Boot 2.x.
