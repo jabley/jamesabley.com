@@ -72,7 +72,7 @@ for mandating cookie policy.
 
 The Equality Act 2010 (UK) and the Americans with Disabilities Act
 1990 (2010 update) for website accessibility. Yes, there was a time
-when people didn't consider accessibility when building web sites.
+when people didn't consider accessibility when building websites.
 
 Brexit has meant a lot of changes for businesses in the EU and UK.
 Software has been rewritten to manage the new trading relationships.
